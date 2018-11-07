@@ -2,7 +2,7 @@
   "name": "junctions-io-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://junctions.io",
+  "homepage": "https://junctions-io.github.io/junctions-io-web/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "leaflet": "^1.3.4",
@@ -14,6 +14,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && rm -rf docs && mv build docs",
+    "predeploy": "react-scripts build && rm -rf docs && mv build docs",
+    "deploy": "gh-pages -d docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
