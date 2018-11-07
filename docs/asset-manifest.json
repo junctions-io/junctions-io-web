@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.bbaf466c.chunk.css",
-  "main.js": "/static/js/main.c7600800.chunk.js",
-  "main.js.map": "/static/js/main.c7600800.chunk.js.map",
-  "static/js/1.6bb25aad.chunk.js": "/static/js/1.6bb25aad.chunk.js",
-  "static/js/1.6bb25aad.chunk.js.map": "/static/js/1.6bb25aad.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.bbaf466c.chunk.css.map": "/static/css/main.bbaf466c.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.631c31b10600e46af3061623b650e1bc.js": "/precache-manifest.631c31b10600e46af3061623b650e1bc.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/junctions-io-web/static/css/main.bbaf466c.chunk.css",
+  "main.js": "/junctions-io-web/static/js/main.c7600800.chunk.js",
+  "main.js.map": "/junctions-io-web/static/js/main.c7600800.chunk.js.map",
+  "static/js/1.6bb25aad.chunk.js": "/junctions-io-web/static/js/1.6bb25aad.chunk.js",
+  "static/js/1.6bb25aad.chunk.js.map": "/junctions-io-web/static/js/1.6bb25aad.chunk.js.map",
+  "runtime~main.js": "/junctions-io-web/static/js/runtime~main.f9bd7d7c.js",
+  "runtime~main.js.map": "/junctions-io-web/static/js/runtime~main.f9bd7d7c.js.map",
+  "static/css/main.bbaf466c.chunk.css.map": "/junctions-io-web/static/css/main.bbaf466c.chunk.css.map",
+  "index.html": "/junctions-io-web/index.html",
+  "precache-manifest.a5c1d48ef70ea034d1be65d78e5b5210.js": "/junctions-io-web/precache-manifest.a5c1d48ef70ea034d1be65d78e5b5210.js",
+  "service-worker.js": "/junctions-io-web/service-worker.js"
 }
