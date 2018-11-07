@@ -34,6 +34,16 @@
   height: 40vmin;
 }
 
+.App-info-heading {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+.App-info-emotion {
+  display: inline-block;
+  margin-right: 1em;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
