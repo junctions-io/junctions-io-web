@@ -2,7 +2,9 @@
   "name": "junctions-io-web",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://junctions.io",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "leaflet": "^1.3.4",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
@@ -11,7 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && rm -rf docs && mv build docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
